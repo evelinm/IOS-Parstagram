@@ -24,5 +24,5 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/mnqVueZDnYfdvkf2K0/giphy.gif' />
 
-<img src='https://media.giphy.com/media/mnqVueZDnYfdvkf2K0/giphy.gif' />
+<img src='https://media.giphy.com/media/ywIMor2CNVIIUMWoVH/giphy.gif' />
 
