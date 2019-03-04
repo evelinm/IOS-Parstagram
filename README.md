@@ -16,9 +16,11 @@ The following **required** functionality is completed:
 - [x] User can view the last 20 posts. (4pts)
 
 The following **bonus** features are implemented:
+I downloaded the zip file because my git is giving me a lot of errors I have not fixed. I will push later, but the code will be the same.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/d7p70n8zUWesJDhRPF/giphy.gif' />
+
