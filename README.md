@@ -22,5 +22,7 @@ I downloaded the zip file because my git is giving me a lot of errors I have not
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/d7p70n8zUWesJDhRPF/giphy.gif' />
+<img src='https://media.giphy.com/media/mnqVueZDnYfdvkf2K0/giphy.gif' />
+
+<img src='https://media.giphy.com/media/mnqVueZDnYfdvkf2K0/giphy.gif' />
 
